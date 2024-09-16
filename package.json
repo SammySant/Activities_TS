@@ -4,7 +4,7 @@
   "description": "This repository is dedicated to post some TypeScript exercises",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec ts-node-dev remove-duplicates/server.ts",
+    "dev": "nodemon --exec ts-node-dev src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
